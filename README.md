@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="left" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
 
@@ -42,15 +42,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shrivatsa255/shrivatsa255/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/shrivatsa255/shrivatsa255/output/snake.svg" alt="Snake animation" />
 
 ###
